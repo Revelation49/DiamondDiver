@@ -13,7 +13,7 @@ With gravity doing its thing (pushing things downward), swiping left and right t
 
 # Updates
 
-Each week this project evolves, there are many things that I am working on in order to get everything ready for the spring.
+Each week this project evolves, there are many things that I am working on in order to get everything ready for the spring. You can follow along with all of my updates here.
 
 #### January 9th 2019
 - I am currently updating the main menu UI by removing all of the placeholder assets.
