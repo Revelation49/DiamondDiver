@@ -15,8 +15,8 @@ With gravity doing its thing (pushing things downward), swiping left and right t
 
 Each week this project evolves, there are many things that I am working on in order to get everything ready for the spring.
 
-### January 9th 2019
+#### January 9th 2019
 - I am currently updating the main menu UI by removing all of the placeholder assets.
 
-### January 16th 2019
+#### January 16th 2019
 - I am currently updating the in game menu UI's by removing all of the placeholder assets.
