@@ -11,3 +11,12 @@ The simplicity of only swiping down to break a diamond block and tapping to quic
 
 With gravity doing its thing (pushing things downward), swiping left and right to move and swiping down to break Diamond blocks makes for fun gathering resources and helps a person work on their reflexes and timing of when to maneuver or break certain blocks.
 
+# Updates
+
+Each week this project evolves, there are many things that I am working on in order to get everything ready for the spring.
+
+### January 9th 2019
+- I am currently updating the main menu UI by removing all of the placeholder assets.
+
+### January 16th 2019
+- I am currently updating the in game menu UI's by removing all of the placeholder assets.
